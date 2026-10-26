@@ -1,0 +1,6 @@
+{
+  "name": "Sanjeevani - Vernacular Emergency Triage & ICU Navigation",
+  "description": "Zero-latency vernacular emergency triage, real-time hospital ICU bed reservation, and audio-visual resuscitation guidance for rural and peri-urban emergency care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
